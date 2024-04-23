@@ -1,0 +1,125 @@
+1001 John Smith 5010 shirt 25 3 
+1002 Mary Jones 5011 pants 35 2 
+1003 James Brown 5012 jacket 50 1 
+1004 Anna Lee 5013 dress 40 2 
+1005 Abigail Adams 5020 blouse 45 2 
+1006 Robert Miller 5021 skirt 30 1 
+1007 David Wilson 5022 sweater 20 4 
+1008 Emma Johnson 5023 jeans 25 3 
+1009 Michael Taylor 5010 shirt 25 2 
+1010 Sarah Davis 5011 pants 35 1 
+1011 Daniel Clark 5012 jacket 50 2 
+1012 Laura Smith 5013 dress 40 1 
+1013 William Jones 5020 blouse 45 3 
+1014 Emily Brown 5021 skirt 30 2 
+1015 Thomas Lee 5022 sweater 20 3 
+1016 Sophia Adams 5023 jeans 25 2 
+1017 Jacob Miller 5010 shirt 25 4 
+1018 Olivia Wilson 5011 pants 35 2 
+1019 Ethan Johnson 5012 jacket 50 1 
+1020 Isabella Taylor 5013 dress 40 2
+1021 Noah Clark 5020 blouse 45 1 
+1022 Mia Smith 5021 skirt 30 3 
+1023 Liam Jones 5022 sweater 20 2 
+1024 Ava Brown 5023 jeans 25 4 
+1025 Alexander Lee 5010 shirt 25 3 
+1026 Emma Adams 5011 pants 35 2 
+1027 Jacob Miller 5012 jacket 50 2 
+1028 Sophia Wilson 5013 dress 40 1 
+1029 Ethan Johnson 5020 blouse 45 2 
+1030 Isabella Taylor 5021 skirt 30 2
+1031 Olivia Clark 5022 sweater 20 4 
+1032 Noah Smith 5023 jeans 25 3 
+1033 Ava Jones 5010 shirt 25 2 
+1034 Liam Brown 5011 pants 35 1 
+1035 Mia Lee 5012 jacket 50 3 
+1036 Alexander Adams 5013 dress 40 2 
+1037 Emma Wilson 5020 blouse 45 1 
+1038 Jacob Taylor 5021 skirt 30 2 
+1039 Sophia Clark 5022 sweater 20 3 
+1040 Ethan Smith 5023 jeans 25 2 
+1041 Isabella Jones 5010 shirt 25 4 
+1042 Noah Brown 5011 pants 35 3 
+1043 Ava Lee 5012 jacket 50 2 
+1044 Liam Adams 5013 dress 40 1 
+1045 Mia Wilson 5020 blouse 45 2 
+1046 Alexander Taylor 5021 skirt 30 1 
+1047 Emma Clark 5022 sweater 20 2 
+1048 Jacob Smith 5023 jeans 25 3 
+1049 Sophia Jones 5010 shirt 25 1 
+1050 Ethan Brown 5011 pants 35 2 
+1051 Isabella Lee 5012 jacket 50 1 
+1052 Noah Adams 5013 dress 40 2 
+1053 Ava Wilson 5020 blouse 45 3 
+1054 Liam Taylor 5021 skirt 30 2 
+1055 Mia Clark 5022 sweater 20 4 
+1056 Alexander Smith 5023 jeans 25 1 
+1057 Emma Jones 5010 shirt 25 2 
+1058 Jacob Brown 5011 pants 35 1 
+1059 Sophia Lee 5012 jacket 50 2 
+1060 Ethan Adams 5013 dress 40 3
+1029 Ethan Johnson 5013 dress 40 2
+1030 Isabella Taylor 5012 jacket 50 2 
+1031 Olivia Clark 5011 pants 35 4 
+1032 Noah Smith 5010 shirt 25 3 
+1033 Ava Jones 5023 jeans 25 2 
+1034 Liam Brown 5022 sweater 20 1 
+1035 Mia Lee 5021 skirt 30 3 
+1036 Alexander Adams 5020 blouse 45 2 
+1037 Emma Wilson 5013 dress 40 1 
+1038 Jacob Taylor 5012 jacket 50 2 
+1039 Sophia Clark 5011 pants 35 3 
+1040 Ethan Smith 5010 shirt 25 2 
+1041 Isabella Jones 5023 jeans 25 4 
+1042 Noah Brown 5022 sweater 20 3 
+1043 Ava Lee 5021 skirt 30 2 
+1044 Liam Adams 5020 blouse 45 1 
+1045 Mia Wilson 5013 dress 40 2 
+1046 Alexander Taylor 5012 jacket 50 1 
+1047 Emma Clark 5022 sweater 20 2 
+1048 Jacob Smith 5023 jeans 25 3 
+1049 Sophia Jones 5010 shirt 25 1 
+1050 Ethan Brown 5011 pants 35 2 
+1051 Isabella Lee 5021 skirt 30 1 
+1052 Noah Adams 5020 blouse 45 2 
+1053 Ava Wilson 5011 pants 35 3 
+1054 Liam Taylor 5023 jeans 25 2 
+1055 Mia Clark 5010 shirt 25 4 
+1056 Alexander Smith 5022 sweater 20 1 
+1057 Emma Jones 5021 skirt 30 2 
+1058 Jacob Brown 5020 blouse 45 1 
+1059 Sophia Lee 5012 jacket 50 2 
+1060 Ethan Adams 5013 dress 40 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
